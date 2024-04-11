@@ -1,0 +1,45 @@
+_repo: Des-conspirations-et-de-la-justice-politique_73232
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, François Pierre Guillaume
+    - Guizot, M. (François)
+    - Guisot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, FranÃ§ois
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Guizot
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+description: ''
+gutenberg_issued: '2024-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73232'
+  lccn: '39005286'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k61312023
+pgterms:marc905: 20240209124605guizot
+pgterms:marc906: '1821'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bLadvocat, $c1821.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1814-1830'
+- !lcsh 'Political crimes and offenses -- Law and legislation'
+- !lcsh 'Political crimes and offenses -- Law and legislation -- France'
+- !lcsh 'Conspiracies'
+- !lcc 'K'
+- GITenberg
+title: Des conspirations et de la justice politique
+url: http://www.gutenberg.org/ebooks/73232
