@@ -1,5 +1,8 @@
 _repo: Des-conspirations-et-de-la-justice-politique_73232
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73232-h/images/cover.jpg
 creator:
   author:
     agent_name: Guizot, François
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/François_Guizot
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73232#Des-conspirations-et-de-la-justice-politique
 gutenberg_issued: '2024-03-22'
 gutenberg_type: Text
 identifiers:
